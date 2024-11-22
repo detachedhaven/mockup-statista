@@ -38,7 +38,7 @@ button {
 /* utility */
 .center {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
 }
